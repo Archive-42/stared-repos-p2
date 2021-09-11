@@ -1,6 +1,0 @@
-{
-  "search.exclude": {
-    "lib/**": true,
-    "example-docs/**": true
-  }
-}

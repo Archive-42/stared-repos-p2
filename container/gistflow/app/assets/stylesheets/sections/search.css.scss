@@ -1,7 +1,0 @@
-@import "configuration";
-
-section.search {
-  > header h1 {
-    @include caption;
-  }
-}

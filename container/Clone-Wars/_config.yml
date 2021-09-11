@@ -1,7 +1,0 @@
-theme: jekyll-theme-leap-day
-plugins:
-  - jekyll-relative-links
-  - jekyll-github-metadata
-relative_links:
-  enabled: true
-  collections: true
